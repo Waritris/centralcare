@@ -1,8 +1,3 @@
-# centralcare
-Central Resevation System for COVID-19 infected patients (CentralCare)
-# Dependencies
-- Python
-- Flask
-- Mongodb
+# E-book 
 # E-book Online Store
-- Naruto EP1
+# No packages
